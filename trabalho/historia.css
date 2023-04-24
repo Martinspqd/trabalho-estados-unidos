@@ -1,0 +1,14 @@
+.eua{
+    text-align: center;
+    font-style:inherit;
+    background-color: red;
+}
+
+body{
+    background-color:dodgerblue;
+}
+
+img{
+    margin: auto; 
+    display: block;
+}
